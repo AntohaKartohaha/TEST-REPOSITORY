@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const greeting = "Это тестовый проект Лямкина Антона Александровича";
+  const greeting = "Это тестовый проект Лямкина А.А.";
 
   
   return (
